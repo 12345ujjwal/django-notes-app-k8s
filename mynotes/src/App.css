@@ -247,3 +247,31 @@ a {
 .note textarea::-webkit-scrollbar {
   display: none;
 }
+
+.notes-subtitle {
+  color: #94a3b8;
+  margin-top: 5px;
+  font-size: 14px;
+}
+
+.notes-count-box {
+  width: 60px;
+  height: 60px;
+  border-radius: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background: linear-gradient(
+      135deg,
+      #f97316,
+      #fb7185
+  );
+
+  color: white;
+  font-size: 22px;
+  font-weight: 700;
+
+  box-shadow:
+      0 8px 20px rgba(249,115,22,.35);
+}
