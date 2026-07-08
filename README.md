@@ -32,7 +32,9 @@ Install Nginx reverse proxy to make this application available
 1. Install Docker compose plugin
    ```
    sudo apt update
-   sudo apt install docker-compose-plugin
+   sudo apt install docker-compose
    ```
 
-2
+2. ```
+   docker compose up
+   ```
