@@ -28,3 +28,11 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
+
+1. Install Docker compose plugin
+   ```
+   sudo apt update
+   sudo apt install docker-compose-plugin
+   ```
+
+2
