@@ -14,6 +14,7 @@ git clone https://github.com/12345ujjwal/django-notes-app-k8s.git
 
 2. Build the app
 ```
+cd django-notes-app-k8s
 docker build -t notes-app .
 ```
 
