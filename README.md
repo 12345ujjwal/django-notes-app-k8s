@@ -1,4 +1,4 @@
-# Simple Notes App for Skill Nebula Community
+# Simple Notes App for Skill Nebula Learners
 This is a simple notes app built with React and Django.
 
 ## Requirements
